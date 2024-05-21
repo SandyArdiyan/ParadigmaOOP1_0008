@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-//repositori : paradogma
+//repositori : paradiggma
 class mahasiswa {
 private:
 	const int id;
